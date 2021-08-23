@@ -54,16 +54,18 @@ Total amount of sales and average sales amount over months
 Prediction
 -----------
 Modelling and Evaluation for MLR (https://github.com/ibkAfolabi/Ecommerce-Analytics/blob/main/MLR%20Code.R)
+
 Modelling and Evaluation for ANN (https://github.com/ibkAfolabi/Ecommerce-Analytics/blob/main/ANN.R)
 ![](images/image5.png)
 
 Classification
 --------------
 Modelling and Evaluation for Classification Tree(https://github.com/ibkAfolabi/Ecommerce-Analytics/blob/main/Decision%20Tree%20Classification.R)
+
 Modelling and Evaluation for logistic Regression(https://github.com/ibkAfolabi/Ecommerce-Analytics/blob/main/Logistic%20Regression.R)
 
 
 Clustering
 ----------
-![](images/image5.png)
+![](images/image8.png)
 Plot of the clustering attributes using K-means
