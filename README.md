@@ -34,19 +34,36 @@ The dataset used for this project was extracted from the Afrimash DEngage platfo
 Descriptive Analytics
 ---------------------
 ![](images/image1.png)
+Customer per region bubble plot
+
+
+![](images/image2.png)
+Customer per region map
+
+![](images/image3.png)
+Amount spent per region map
+
+![](images/image4.png)
+Total amount of sales and average sales amount over months
 
 
 
 
-
-
+Total amount of sales and average sales amount over months
 
 Prediction
 -----------
+Modelling and Evaluation for MLR (https://github.com/ibkAfolabi/Ecommerce-Analytics/blob/main/MLR%20Code.R)
+Modelling and Evaluation for ANN (https://github.com/ibkAfolabi/Ecommerce-Analytics/blob/main/ANN.R)
+![](images/image5.png)
 
 Classification
 --------------
+Modelling and Evaluation for Classification Tree(https://github.com/ibkAfolabi/Ecommerce-Analytics/blob/main/Decision%20Tree%20Classification.R)
+Modelling and Evaluation for logistic Regression(https://github.com/ibkAfolabi/Ecommerce-Analytics/blob/main/Logistic%20Regression.R)
+
 
 Clustering
 ----------
-
+![](images/image5.png)
+Plot of the clustering attributes using K-means
