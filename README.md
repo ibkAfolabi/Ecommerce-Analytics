@@ -33,6 +33,8 @@ The dataset used for this project was extracted from the Afrimash DEngage platfo
 
 Descriptive Analytics
 ---------------------
+![](images/image1.png)
+
 
 
 
