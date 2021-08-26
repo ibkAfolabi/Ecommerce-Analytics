@@ -69,3 +69,8 @@ Clustering
 ----------
 ![](images/image8.png)
 Plot of the clustering attributes using K-means
+
+
+Credits
+-------
+DATA MINING FOR BUSINESS ANALYTICS Concepts, Techniques, and Applications in R Book of 2018 book
